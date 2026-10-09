@@ -1,4 +1,4 @@
-# Agent with Routing with RAG
+# Agent with Routing and RAG
 
 # Adding a RAG Agent to a Multi-Specialist Research Workflow
 
